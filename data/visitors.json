@@ -1,0 +1,23 @@
+[
+    {
+        "visitorName": "John Doe",
+        "visitorPhoneNumber": "9876543210",
+        "visitorDriverLicenseNumber": null,
+        "visitorCompanyName": null,
+        "comingFrom": null
+    },
+    {
+        "visitorName": "Jane Smith Updated",
+        "visitorPhoneNumber": "9999999999",
+        "visitorDriverLicenseNumber": null,
+        "visitorCompanyName": "ABC Corp",
+        "comingFrom": null
+    },
+    {
+        "visitorName": "ABC123",
+        "visitorPhoneNumber": "8281094922",
+        "visitorDriverLicenseNumber": "1234567890",
+        "visitorCompanyName": "Impelsys",
+        "comingFrom": "BNG"
+    }
+]

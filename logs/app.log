@@ -1,0 +1,17 @@
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error: 'DataManager' object has no attribute 'ingest_bulk_employees'
+INFO:root:Ingested 3 employees from CSV
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Error writing C:\Users\Anil\Projects\Ranjith\visitor-management\src\data\visitors.json: [Errno 2] No such file or directory: 'C:\\Users\\Anil\\Projects\\Ranjith\\visitor-management\\src\\data\\visitors.json'
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+INFO:httpx:HTTP Request: POST http://testserver/week2/visitors "HTTP/1.1 422 Unprocessable Entity"
+ERROR:root:Error reading C:\Users\Anil\Projects\Ranjith\visitor-management\data\visitors.json: Expecting value: line 1 column 1 (char 0)
+INFO:httpx:HTTP Request: POST http://testserver/week2/visitors "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://testserver/week2/visitors/add "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://testserver/week2/visitors/update "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://testserver/week2/employees/add "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://testserver/week2/employees/update "HTTP/1.1 200 OK"
